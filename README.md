@@ -17,3 +17,4 @@ This repository have dashboard on Pan India Consumer Transaction with interpreta
 12. How does transaction amount vary with age, and how does it differ between fraudulent and non-fraudulent transactions?
 14.  What is the distribution of fraud and non-fraud transactions across different age groups?
 15.  What is the presence of fraud  across the geography?
+![Relation between fraud and Gender](https://github.com/user-attachments/assets/b4ec16aa-560d-4bc0-a14d-ee982895c77b)
