@@ -27,13 +27,13 @@ This repository have dashboard on Pan India Consumer Transaction with interpreta
 **General Insights**
 
 - A total of 10,267 transactions occurred during the observed period.
-52.4% of these transactions were fraudulent, indicating a significant portion of fraudulent activities.
-The highest individual transaction amount recorded is 9991.71.
-There are 1,347 unique merchants involved in the dataset.
+- 52.4% of these transactions were fraudulent, indicating a significant portion of fraudulent activities.
+- The highest individual transaction amount recorded is 9991.71.
+- There are 1,347 unique merchants involved in the dataset.
 
 **Trends over Time**
-The maximum no. of transaction observed in _June 2023_. In maximum no. of month no. of transaction happened is from 350 - 450.
-Over the period from _April 2022_, transaction amounts fluctuated but generally showed an increasing trend. However, after _June 2023_, the trend reversed, showing a decreasing trend until April 2024.
+-The maximum no. of transaction observed in _June 2023_. In maximum no. of month no. of transaction happened is from 350 - 450.
+- Over the period from _April 2022_, transaction amounts fluctuated but generally showed an increasing trend. However, after _June 2023_, the trend reversed, showing a decreasing trend until April 2024.
 
 **State wise Insights**
 The highest number of fraudulent transactions occurred in _Uttarakhand_.
