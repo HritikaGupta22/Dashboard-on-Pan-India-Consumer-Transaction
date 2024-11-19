@@ -14,12 +14,19 @@ The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of con
 6. What % of  transactions occurred in each category?
 7. How do fraud and non-fraud transactions vary across states?
 8. What is the trend of transaction amounts from April 2022 to April 2024?
+9. What is the average transaction volume for each category, and how do fraud and non-fraud transaction volumes differ?
+10. What is the total transaction amount for each state?
+11. How do transaction patterns differ across categories in various states?
+12. What is the relationship between states and transaction amounts over the years?
+13. How is fraud related to the gender of customers?
+14. How does transaction amount vary by age, and how does it differ between fraud and non-fraud cases?
+15. What is the distribution of fraud and non-fraud transactions across age groups?
+16. What is the geographical spread of fraud at merchant locations?
 
 
 ## Dashboard:
 ![image](https://github.com/user-attachments/assets/a310c1c3-08ff-4e69-a6ca-24fe31d7c8e9)
-
-
+![image](https://github.com/user-attachments/assets/2b852fc5-243d-402e-a920-12b425be72e2)
 
 ## Interpretations:
 
