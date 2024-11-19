@@ -25,8 +25,11 @@ The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of con
 
 
 ## Dashboard:
-![image](https://github.com/user-attachments/assets/a310c1c3-08ff-4e69-a6ca-24fe31d7c8e9)
-![image](https://github.com/user-attachments/assets/2b852fc5-243d-402e-a920-12b425be72e2)
+![image](https://github.com/user-attachments/assets/972db74e-676e-4c60-b3ae-489528de5ca0)
+![image](https://github.com/user-attachments/assets/a074ff99-d79c-4535-b72d-28663d172421)
+![image](https://github.com/user-attachments/assets/2a6b7596-e1b4-4aaf-b9df-aeb8f2437e25)
+![image](https://github.com/user-attachments/assets/20484920-d6e0-4794-8982-ba29ca30b285)
+
 
 ## Interpretations:
 
