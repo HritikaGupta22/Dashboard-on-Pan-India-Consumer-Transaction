@@ -1,24 +1,23 @@
 # Dashboard-on-Pan-India-Consumer-Transaction
 This repository have dashboard on Pan India Consumer Transaction with interpretation based on it
 
-## Queries in this dashboard:
+## About Data
+The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of consumer transactions in India, encompassing over 10,000 records across categories like travel, entertainment, fitness, and online shopping. It includes detailed attributes such as transaction details, amounts, demographics, and merchant information. With data on consumer occupations, geographic locations, and fraud status, This dataset is ideal for analyzing consumer transaction trends, identifying fraud patterns, and understanding demographic spending behaviors across various categories. It provides insights into state-wise transaction volumes, gender and age-related trends, and category-wise spending, making it valuable for market research, fraud detection strategies, and targeted decision-making.
 
-1. What is the Total Number of Transactions recorded?
-2. What is the highest transaction amount recorded in the dataset?
-3. What is the Percentage of Fraudulent Transactions?
-4. How Many Unique Merchants are Present?
-5. How does the number of transactions vary month by month?
-6. How many transactions are there per category?
-7. How do the number of fraud and non-fraud transactions vary state-wise?
-8. What is the Trend of Transaction Amounts from April 2022 to April 2024?
-9. What is the average transaction volume across categories, and how much are fraud and non-fraud volumes?
-10. What is the Transaction amount state wise?
-11. Dispay transaction pattern categories wise in all states?
-12. Relationship between states and year of Transaction by Amount?
-13. What is the relationship between fraud occurrences and customer gender?
-14. How does transaction amount vary with age, and how does it differ between fraudulent and non-fraudulent transactions?
-15. What is the distribution of fraud and non-fraud transactions across different age groups?
-16. What is the presence of fraud across the  Merchant Location?
+## Question in this dashboard:
+
+1. How many transactions were recorded in total?
+2. What is the highest transaction amount in the dataset?
+3. What percentage of the transactions are fraudulent?
+4. How many unique merchants are included in the data?
+5. How does the number of transactions change month by month?
+6. What % of  transactions occurred in each category?
+7. How do fraud and non-fraud transactions vary across states?
+8. What is the trend of transaction amounts from April 2022 to April 2024?
+
+
+## Dashboard:
+![image](https://github.com/user-attachments/assets/a310c1c3-08ff-4e69-a6ca-24fe31d7c8e9)
 
 
 
@@ -75,3 +74,11 @@ This repository have dashboard on Pan India Consumer Transaction with interpreta
 **Fraud Insights**
 
 - Fraudulent activities were observed across all age groups and transaction amounts, indicating that fraud can be for any age group or transaction value.
+
+## Managerial Implications
+
+- With 52.4% of transactions being fraudulent, it is critical to invest in advanced fraud detection systems leveraging machine learning and AI to analyze transaction patterns and flag anomalies in real-time.
+- With females showing higher fraudulent transaction volumes, businesses should ensure robust identity verification mechanisms for online shopping platforms.
+- Online Shopping is the leading category in transaction volume, signaling an opportunity to enhance digital payment systems, introduce loyalty programs, and optimize the online user experience.
+- Tamil Nadu’s high transaction amounts, especially in Travel and Online Shopping, suggest targeting this region with premium services or high-value offerings to build long term relationship.
+- The overall decreasing trend in transaction amounts after June 2023 should prompt a review of economic factors or market disruptions that might have caused this decline.
