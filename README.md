@@ -25,7 +25,8 @@ This repository have dashboard on Pan India Consumer Transaction with interpreta
 ## Interpretations:
 
 **General Insights**
-A total of 10,267 transactions occurred during the observed period.
+
+- A total of 10,267 transactions occurred during the observed period.
 52.4% of these transactions were fraudulent, indicating a significant portion of fraudulent activities.
 The highest individual transaction amount recorded is 9991.71.
 There are 1,347 unique merchants involved in the dataset.
