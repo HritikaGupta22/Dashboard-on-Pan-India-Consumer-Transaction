@@ -4,7 +4,7 @@ This repository have dashboard on Pan India Consumer Transaction with interpreta
 ## About Data
 The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of consumer transactions in India, encompassing over 10,000 records across categories like travel, entertainment, fitness, and online shopping. It includes detailed attributes such as transaction details, amounts, demographics, and merchant information. With data on consumer occupations, geographic locations, and fraud status, This dataset is ideal for analyzing consumer transaction trends, identifying fraud patterns, and understanding demographic spending behaviors across various categories. It provides insights into state-wise transaction volumes, gender and age-related trends, and category-wise spending, making it valuable for market research, fraud detection strategies, and targeted decision-making.
 
-## Question in this dashboard:
+## Question on this data:
 
 1. How many transactions were recorded in total?
 2. What is the highest transaction amount in the dataset?
@@ -24,14 +24,14 @@ The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of con
 16. What is the geographical spread of fraud at merchant locations?
 
 
-## Dashboard:
+## Dashboard on this data:
 ![image](https://github.com/user-attachments/assets/972db74e-676e-4c60-b3ae-489528de5ca0)
 ![image](https://github.com/user-attachments/assets/a074ff99-d79c-4535-b72d-28663d172421)
 ![image](https://github.com/user-attachments/assets/2a6b7596-e1b4-4aaf-b9df-aeb8f2437e25)
 ![image](https://github.com/user-attachments/assets/20484920-d6e0-4794-8982-ba29ca30b285)
 
 
-## Interpretations:
+## Interpretations based on the dashboard:
 
 **General Insights**
 
