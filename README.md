@@ -1,8 +1,12 @@
 # Dashboard-on-Pan-India-Consumer-Transaction
 This repository have dashboard on Pan India Consumer Transaction with interpretation based on it
 
+## Methodology
+The data is sourced from Kaggle, and the dashboard is being created using MongoDB Atlas and MongoDB Compass.
+
 ## About Data
 The IndiaTransactMultiFacet2024 dataset provides a comprehensive overview of consumer transactions in India, encompassing over 10,000 records across categories like travel, entertainment, fitness, and online shopping. It includes detailed attributes such as transaction details, amounts, demographics, and merchant information. With data on consumer occupations, geographic locations, and fraud status, This dataset is ideal for analyzing consumer transaction trends, identifying fraud patterns, and understanding demographic spending behaviors across various categories. It provides insights into state-wise transaction volumes, gender and age-related trends, and category-wise spending, making it valuable for market research, fraud detection strategies, and targeted decision-making.
+The **Age** column is calculated by subtracting the year of birth (DOB year) from the current year.
 
 ## Question on this data:
 
